@@ -7,6 +7,6 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <Canvas Width="300" Height="300" Background="LightBlue" x:Name="canvas"/>
+        <Canvas Width="300" Height="300" Background="LightBlue" x:Name="drawingArea" MouseDown="canvas_MouseDown" MouseUp="canvas_MouseUp" MouseMove="canvas_MouseMove"/>
     </Grid>
 </Window>

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\micha\\Projekty Programistyczne\\NeuralNetwork\\NeuralNetwork\\NeuralNetwork.csproj": {}
+    "C:\\Users\\micha\\ProjektyProgramistyczne\\NeuralNetwork\\NeuralNetwork\\NeuralNetwork\\NeuralNetwork.csproj": {}
   },
   "projects": {
-    "C:\\Users\\micha\\Projekty Programistyczne\\NeuralNetwork\\NeuralNetwork\\NeuralNetwork.csproj": {
+    "C:\\Users\\micha\\ProjektyProgramistyczne\\NeuralNetwork\\NeuralNetwork\\NeuralNetwork\\NeuralNetwork.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\micha\\Projekty Programistyczne\\NeuralNetwork\\NeuralNetwork\\NeuralNetwork.csproj",
+        "projectUniqueName": "C:\\Users\\micha\\ProjektyProgramistyczne\\NeuralNetwork\\NeuralNetwork\\NeuralNetwork\\NeuralNetwork.csproj",
         "projectName": "NeuralNetwork",
-        "projectPath": "C:\\Users\\micha\\Projekty Programistyczne\\NeuralNetwork\\NeuralNetwork\\NeuralNetwork.csproj",
+        "projectPath": "C:\\Users\\micha\\ProjektyProgramistyczne\\NeuralNetwork\\NeuralNetwork\\NeuralNetwork\\NeuralNetwork.csproj",
         "packagesPath": "C:\\Users\\micha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\micha\\Projekty Programistyczne\\NeuralNetwork\\NeuralNetwork\\obj\\",
+        "outputPath": "C:\\Users\\micha\\ProjektyProgramistyczne\\NeuralNetwork\\NeuralNetwork\\NeuralNetwork\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\micha\\AppData\\Roaming\\NuGet\\NuGet.Config",

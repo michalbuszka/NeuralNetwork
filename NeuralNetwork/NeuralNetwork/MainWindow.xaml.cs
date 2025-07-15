@@ -16,9 +16,30 @@ namespace NeuralNetwork
     /// </summary>
     public partial class MainWindow : Window
     {
+        private bool isDrawing = false;
+        private CanvasController controller;
         public MainWindow()
         {
             InitializeComponent();
+            controller= new CanvasController(drawingArea);
+        }
+
+        private void canvas_MouseDown(object sender, MouseButtonEventArgs e)
+        {
+            isDrawing = true;
+            //pozycja startowa myszki
+        }
+
+        private void canvas_MouseUp(object sender, MouseButtonEventArgs e)
+        {
+            isDrawing = false;
+        }
+
+        private void canvas_MouseMove(object sender, MouseEventArgs e)
+        {
+            if (!isDrawing)
+                return;
+            Point point = controller.DrawPoint(e);
         }
     }
 }
