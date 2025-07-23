@@ -41,5 +41,10 @@ namespace NeuralNetwork
                 return;
             Point point = controller.DrawPoint(e);
         }
+
+        private void ClearButtonClick(object sender, RoutedEventArgs e)
+        {
+            controller.Clear();
+        }
     }
 }

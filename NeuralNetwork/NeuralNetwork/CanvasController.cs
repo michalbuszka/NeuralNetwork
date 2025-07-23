@@ -31,5 +31,9 @@ namespace NeuralNetwork
             canvas.Children.Add(rectangle);
             return new Point(x, y);
         }
+        public void Clear ()
+        {
+            this.canvas.Children.Clear();   
+        }
     }
 }
