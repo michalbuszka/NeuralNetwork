@@ -18,9 +18,11 @@ namespace NeuralNetwork
     {
         private bool isDrawing = false;
         private CanvasController controller;
+        private Layer inputLayer;
         public MainWindow()
         {
             InitializeComponent();
+            inputLayer = new Layer(Settings.inputNeurons * Settings.inputNeurons);
             controller= new CanvasController(drawingArea);
         }
 
@@ -40,11 +42,13 @@ namespace NeuralNetwork
             if (!isDrawing)
                 return;
             Point point = controller.DrawPoint(e);
+            inputLayer.SetNeuron(point, 255);
         }
 
         private void ClearButtonClick(object sender, RoutedEventArgs e)
         {
             controller.Clear();
+            NumberIntegerUpDown.ClearValue(Xceed.Wpf.Toolkit.IntegerUpDown.ValueProperty);
         }
     }
 }
