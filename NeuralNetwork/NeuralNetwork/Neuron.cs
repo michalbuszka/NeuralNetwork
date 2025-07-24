@@ -9,6 +9,10 @@ namespace NeuralNetwork
     public class Neuron
     {
         public int Value { get; set; }
+        public Neuron ()
+        {
+            
+        }
         public Neuron (int Value)
         {
             this.Value = Value;

@@ -1,23 +1,43 @@
 ﻿using System;
+using System.Text;
+using System.Windows.Media.Converters;
 
 namespace NeuralNetwork
 {
     public class Layer
     {
-        private Neuron[][] Neurons;
-        public Layer(int ammountOfNeurons) 
+        private Neuron[] Neurons;
+        private int Length;
+        private int Width;
+        public Layer(int length)
         {
-            Neurons = new Neuron[ammountOfNeurons][];
-            for (int y = 0; y < Neurons.Length; y++)
-            {
-                Neurons[y] = new Neuron[ammountOfNeurons];
-                for (int x = 0; x < Neurons.Length; x++)
-                    Neurons[y][x] = new Neuron(0);
-            }
+            this.Length = length;
+            Neurons = new Neuron[length];
+            for (int i = 0; i < length; i++) 
+                Neurons[i] = new Neuron();
         }
-        public void SetNeuron (System.Windows.Point point, int value)
+        public Layer(int width, int height)
         {
-            Neurons[(int)point.Y][(int)point.X].Value = value;
+            this.Width = width;
+            this.Length = width * height;
+            Neurons = new Neuron[Length];
+            for (int i = 0; i < Length; i++)
+                Neurons[i] = new Neuron();
+        }
+        public void SetNeuron(int x, int y, int value)
+        {
+            Neurons[y * Width + x].Value = value;
+        }
+        public void SetNeuron(int index, int value)
+        {
+            Neurons[index].Value = value;
+        }
+        public String Display()
+        {
+            StringBuilder stringBuilder = new StringBuilder();
+            for (int i = 0; i < Length; i++)
+                stringBuilder.Append(Neurons[i].Value + " ");
+            return stringBuilder.ToString();
         }
     }
 }

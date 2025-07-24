@@ -1,4 +1,5 @@
-﻿using System.Text;
+﻿using System.IO;
+using System.Text;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Data;
@@ -22,7 +23,7 @@ namespace NeuralNetwork
         public MainWindow()
         {
             InitializeComponent();
-            inputLayer = new Layer(Settings.inputNeurons * Settings.inputNeurons);
+            inputLayer = new Layer(Settings.inputNeurons, Settings.inputNeurons);
             controller= new CanvasController(drawingArea);
         }
 
@@ -42,11 +43,13 @@ namespace NeuralNetwork
             if (!isDrawing)
                 return;
             Point point = controller.DrawPoint(e);
-            inputLayer.SetNeuron(point, 255);
+            inputLayer.SetNeuron((int)point.X, (int)point.Y, 255);
         }
 
         private void ClearButtonClick(object sender, RoutedEventArgs e)
         {
+            String plik = "plik.txt";
+            File.WriteAllText(plik, inputLayer.Display());
             controller.Clear();
             NumberIntegerUpDown.ClearValue(Xceed.Wpf.Toolkit.IntegerUpDown.ValueProperty);
         }

@@ -8,6 +8,6 @@ namespace NeuralNetwork
 {
     public static class Settings
     {
-        public static readonly int inputNeurons = 32;
+        public static readonly int inputNeurons = 16;
     }
 }

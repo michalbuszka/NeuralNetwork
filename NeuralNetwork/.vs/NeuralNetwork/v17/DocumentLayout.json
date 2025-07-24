@@ -3,23 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\micha\\ProjektyProgramistyczne\\NeuralNetwork\\NeuralNetwork\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C40D3E8C-D05C-47A1-A346-4A952AFDABAC}|NeuralNetwork\\NeuralNetwork.csproj|c:\\users\\micha\\projektyprogramistyczne\\neuralnetwork\\neuralnetwork\\neuralnetwork\\layer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C40D3E8C-D05C-47A1-A346-4A952AFDABAC}|NeuralNetwork\\NeuralNetwork.csproj|solutionrelative:neuralnetwork\\layer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C40D3E8C-D05C-47A1-A346-4A952AFDABAC}|NeuralNetwork\\NeuralNetwork.csproj|c:\\users\\micha\\projektyprogramistyczne\\neuralnetwork\\neuralnetwork\\neuralnetwork\\brain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C40D3E8C-D05C-47A1-A346-4A952AFDABAC}|NeuralNetwork\\NeuralNetwork.csproj|solutionrelative:neuralnetwork\\brain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C40D3E8C-D05C-47A1-A346-4A952AFDABAC}|NeuralNetwork\\NeuralNetwork.csproj|c:\\users\\micha\\projektyprogramistyczne\\neuralnetwork\\neuralnetwork\\neuralnetwork\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C40D3E8C-D05C-47A1-A346-4A952AFDABAC}|NeuralNetwork\\NeuralNetwork.csproj|solutionrelative:neuralnetwork\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C40D3E8C-D05C-47A1-A346-4A952AFDABAC}|NeuralNetwork\\NeuralNetwork.csproj|c:\\users\\micha\\projektyprogramistyczne\\neuralnetwork\\neuralnetwork\\neuralnetwork\\layer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C40D3E8C-D05C-47A1-A346-4A952AFDABAC}|NeuralNetwork\\NeuralNetwork.csproj|solutionrelative:neuralnetwork\\layer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C40D3E8C-D05C-47A1-A346-4A952AFDABAC}|NeuralNetwork\\NeuralNetwork.csproj|c:\\users\\micha\\projektyprogramistyczne\\neuralnetwork\\neuralnetwork\\neuralnetwork\\neuron.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C40D3E8C-D05C-47A1-A346-4A952AFDABAC}|NeuralNetwork\\NeuralNetwork.csproj|solutionrelative:neuralnetwork\\neuron.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C40D3E8C-D05C-47A1-A346-4A952AFDABAC}|NeuralNetwork\\NeuralNetwork.csproj|c:\\users\\micha\\projektyprogramistyczne\\neuralnetwork\\neuralnetwork\\neuralnetwork\\canvascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C40D3E8C-D05C-47A1-A346-4A952AFDABAC}|NeuralNetwork\\NeuralNetwork.csproj|solutionrelative:neuralnetwork\\canvascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C40D3E8C-D05C-47A1-A346-4A952AFDABAC}|NeuralNetwork\\NeuralNetwork.csproj|c:\\users\\micha\\projektyprogramistyczne\\neuralnetwork\\neuralnetwork\\neuralnetwork\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C40D3E8C-D05C-47A1-A346-4A952AFDABAC}|NeuralNetwork\\NeuralNetwork.csproj|solutionrelative:neuralnetwork\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\micha\\AppData\\Local\\Temp\\.vsdbgsrc\\811f0c1102ba7a3d32ee827d0bb52f1af2ec958c7f3fb7abe7c05f601195e6c8\\XamlReader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C40D3E8C-D05C-47A1-A346-4A952AFDABAC}|NeuralNetwork\\NeuralNetwork.csproj|c:\\users\\micha\\projektyprogramistyczne\\neuralnetwork\\neuralnetwork\\neuralnetwork\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C40D3E8C-D05C-47A1-A346-4A952AFDABAC}|NeuralNetwork\\NeuralNetwork.csproj|solutionrelative:neuralnetwork\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C40D3E8C-D05C-47A1-A346-4A952AFDABAC}|NeuralNetwork\\NeuralNetwork.csproj|c:\\users\\micha\\projektyprogramistyczne\\neuralnetwork\\neuralnetwork\\neuralnetwork\\canvascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C40D3E8C-D05C-47A1-A346-4A952AFDABAC}|NeuralNetwork\\NeuralNetwork.csproj|solutionrelative:neuralnetwork\\canvascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C40D3E8C-D05C-47A1-A346-4A952AFDABAC}|NeuralNetwork\\NeuralNetwork.csproj|c:\\users\\micha\\projektyprogramistyczne\\neuralnetwork\\neuralnetwork\\neuralnetwork\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -28,6 +33,9 @@
     {
       "AbsoluteMoniker": "D:0:0:{C40D3E8C-D05C-47A1-A346-4A952AFDABAC}|NeuralNetwork\\NeuralNetwork.csproj|c:\\users\\micha\\projektyprogramistyczne\\neuralnetwork\\neuralnetwork\\neuralnetwork\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C40D3E8C-D05C-47A1-A346-4A952AFDABAC}|NeuralNetwork\\NeuralNetwork.csproj|solutionrelative:neuralnetwork\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\micha\\AppData\\Local\\Temp\\.vsdbgsrc\\811f0c1102ba7a3d32ee827d0bb52f1af2ec958c7f3fb7abe7c05f601195e6c8\\XamlReader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C40D3E8C-D05C-47A1-A346-4A952AFDABAC}|NeuralNetwork\\NeuralNetwork.csproj|c:\\users\\micha\\projektyprogramistyczne\\neuralnetwork\\neuralnetwork\\neuralnetwork\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -45,59 +53,59 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Neuron.cs",
-              "DocumentMoniker": "C:\\Users\\micha\\ProjektyProgramistyczne\\NeuralNetwork\\NeuralNetwork\\NeuralNetwork\\Neuron.cs",
-              "RelativeDocumentMoniker": "NeuralNetwork\\Neuron.cs",
-              "ToolTip": "C:\\Users\\micha\\ProjektyProgramistyczne\\NeuralNetwork\\NeuralNetwork\\NeuralNetwork\\Neuron.cs",
-              "RelativeToolTip": "NeuralNetwork\\Neuron.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T01:02:57.02Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Layer.cs",
               "DocumentMoniker": "C:\\Users\\micha\\ProjektyProgramistyczne\\NeuralNetwork\\NeuralNetwork\\NeuralNetwork\\Layer.cs",
               "RelativeDocumentMoniker": "NeuralNetwork\\Layer.cs",
               "ToolTip": "C:\\Users\\micha\\ProjektyProgramistyczne\\NeuralNetwork\\NeuralNetwork\\NeuralNetwork\\Layer.cs",
               "RelativeToolTip": "NeuralNetwork\\Layer.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-23T01:00:54.71Z",
+              "IsPinned": true,
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Brain.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\ProjektyProgramistyczne\\NeuralNetwork\\NeuralNetwork\\NeuralNetwork\\Brain.cs",
+              "RelativeDocumentMoniker": "NeuralNetwork\\Brain.cs",
+              "ToolTip": "C:\\Users\\micha\\ProjektyProgramistyczne\\NeuralNetwork\\NeuralNetwork\\NeuralNetwork\\Brain.cs",
+              "RelativeToolTip": "NeuralNetwork\\Brain.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T23:20:23.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\ProjektyProgramistyczne\\NeuralNetwork\\NeuralNetwork\\NeuralNetwork\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "NeuralNetwork\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\micha\\ProjektyProgramistyczne\\NeuralNetwork\\NeuralNetwork\\NeuralNetwork\\AssemblyInfo.cs",
+              "RelativeToolTip": "NeuralNetwork\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T22:50:30.383Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "CanvasController.cs",
-              "DocumentMoniker": "C:\\Users\\micha\\ProjektyProgramistyczne\\NeuralNetwork\\NeuralNetwork\\NeuralNetwork\\CanvasController.cs",
-              "RelativeDocumentMoniker": "NeuralNetwork\\CanvasController.cs",
-              "ToolTip": "C:\\Users\\micha\\ProjektyProgramistyczne\\NeuralNetwork\\NeuralNetwork\\NeuralNetwork\\CanvasController.cs",
-              "RelativeToolTip": "NeuralNetwork\\CanvasController.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAIwBQAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T23:25:10.873Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\micha\\ProjektyProgramistyczne\\NeuralNetwork\\NeuralNetwork\\NeuralNetwork\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "NeuralNetwork\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\micha\\ProjektyProgramistyczne\\NeuralNetwork\\NeuralNetwork\\NeuralNetwork\\MainWindow.xaml.cs",
               "RelativeToolTip": "NeuralNetwork\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAawCsAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAABYAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-14T23:21:15.753Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "XamlReader.cs",
               "DocumentMoniker": "C:\\Users\\micha\\AppData\\Local\\Temp\\.vsdbgsrc\\811f0c1102ba7a3d32ee827d0bb52f1af2ec958c7f3fb7abe7c05f601195e6c8\\XamlReader.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\811f0c1102ba7a3d32ee827d0bb52f1af2ec958c7f3fb7abe7c05f601195e6c8\\XamlReader.cs",
@@ -110,32 +118,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\micha\\ProjektyProgramistyczne\\NeuralNetwork\\NeuralNetwork\\NeuralNetwork\\MainWindow.xaml",
               "RelativeDocumentMoniker": "NeuralNetwork\\MainWindow.xaml",
               "ToolTip": "C:\\Users\\micha\\ProjektyProgramistyczne\\NeuralNetwork\\NeuralNetwork\\NeuralNetwork\\MainWindow.xaml",
               "RelativeToolTip": "NeuralNetwork\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-07-14T23:21:18.493Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-14T23:21:18.493Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Settings.cs",
               "DocumentMoniker": "C:\\Users\\micha\\ProjektyProgramistyczne\\NeuralNetwork\\NeuralNetwork\\NeuralNetwork\\Settings.cs",
               "RelativeDocumentMoniker": "NeuralNetwork\\Settings.cs",
               "ToolTip": "C:\\Users\\micha\\ProjektyProgramistyczne\\NeuralNetwork\\NeuralNetwork\\NeuralNetwork\\Settings.cs",
               "RelativeToolTip": "NeuralNetwork\\Settings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T00:06:00.566Z",
+              "WhenOpened": "2025-07-15T00:06:00.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Neuron.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\ProjektyProgramistyczne\\NeuralNetwork\\NeuralNetwork\\NeuralNetwork\\Neuron.cs",
+              "RelativeDocumentMoniker": "NeuralNetwork\\Neuron.cs",
+              "ToolTip": "C:\\Users\\micha\\ProjektyProgramistyczne\\NeuralNetwork\\NeuralNetwork\\NeuralNetwork\\Neuron.cs",
+              "RelativeToolTip": "NeuralNetwork\\Neuron.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T01:02:57.02Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
+              "Title": "CanvasController.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\ProjektyProgramistyczne\\NeuralNetwork\\NeuralNetwork\\NeuralNetwork\\CanvasController.cs",
+              "RelativeDocumentMoniker": "NeuralNetwork\\CanvasController.cs",
+              "ToolTip": "C:\\Users\\micha\\ProjektyProgramistyczne\\NeuralNetwork\\NeuralNetwork\\NeuralNetwork\\CanvasController.cs",
+              "RelativeToolTip": "NeuralNetwork\\CanvasController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAqwCQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T23:25:10.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "C:\\Users\\micha\\ProjektyProgramistyczne\\NeuralNetwork\\NeuralNetwork\\NeuralNetwork\\App.xaml.cs",
               "RelativeDocumentMoniker": "NeuralNetwork\\App.xaml.cs",
@@ -143,8 +174,7 @@
               "RelativeToolTip": "NeuralNetwork\\App.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T23:31:52.58Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-14T23:31:52.58Z"
             }
           ]
         }
